@@ -36,8 +36,11 @@ def get_input (self):
     
 def print_123_D(self , arr_1d, arr_2d):
     
-    
-     print("Array is :"arr)
+    ot = int(input("Enter the dimension to print "))
+    if ot==1:
+     print("Array is :"+ arr_1d)
+    elif ot ==2:
+       print("Array is 2d :"+arr_2d)
 
-    
+     
 
