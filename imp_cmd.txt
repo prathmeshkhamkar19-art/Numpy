@@ -1,0 +1,10 @@
+Name of enviorment - .venv
+branch - master  and numpy_code
+
+1. 
+###  For Each folder there is another Git Repostery
+2.
+###  Numpy is different folder with ".venv "  enviorment 
+
+3.
+###  Problem practice is diff with "enviormnt"  enviorment

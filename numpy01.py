@@ -23,13 +23,13 @@ class Numpy:
         print(f"Enter {self.size} rows (space separated values):")
         arr_2d = np.array([list(map(int, input().split())) for _ in range(self.size)])
         
-        # New method for inpuut
-       # np.array() - Converts Python list into NumPy array
-       # input() - Takes one full line input
-       # .split() - Splits input into separate value
-       # map(int, ...) - Converts each value into integer
-        #list(...) - Converts mapped values into list
-       # list(map(...)) - Creates one complete row
+    # New method for inpuut
+    # np.array() - Converts Python list into NumPy array
+    # input() - Takes one full line input
+    # .split() - Splits input into separate value
+    # map(int, ...) - Converts each value into integer
+    #list(...) - Converts mapped values into list
+    # list(map(...)) - Creates one complete row
        
         return arr_2d          
 
