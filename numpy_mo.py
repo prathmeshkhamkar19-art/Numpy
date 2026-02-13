@@ -7,8 +7,8 @@ class Operation :
      self.size = int(input("Enter the size of array :"))
      
 
-     arr = np.zeros(self.size,dtype=int)
-     for i in range(self.size):
+     arr = np.zeros(self.size,dtype=int)   #Creating array of all aero element
+     for i in range(self.size):        #run loop until size not end
         arr[i]= int(input(f"Enter val for element {i} :"))
     
      return arr
