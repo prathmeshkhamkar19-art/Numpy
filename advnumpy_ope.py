@@ -2,6 +2,7 @@
 #operation like  - insert , Append , Merge , Delete
 
 # Note *  for insertion use same array in insert function and new array name also 
+#           No need to call repeatdly function ... 
 import numpy as np
 
 class Opt:
