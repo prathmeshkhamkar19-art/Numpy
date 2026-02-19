@@ -5,6 +5,7 @@ branch - master  and numpy_code
 ###  For Each folder there is another Git Repostery
 2.
 ###  Numpy is different folder with ".venv "  enviorment 
+.venv/Scripts/Activate
 
 3.
 ###  Problem practice is diff with "enviormnt"  enviorment
