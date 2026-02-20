@@ -4,8 +4,17 @@ branch - master  and numpy_code
 1. 
 ###  For Each folder there is another Git Repostery
 2.
-###  Numpy is different folder with ".venv "  enviorment 
-.venv/Scripts/Activate
+###  Numpy is different folder with "enviormnt "  enviorment 
+enviorment/Scripts/Activate
 
 3.
 ###  Problem practice is diff with "enviormnt"  enviorment
+enviorment/Scripts/Activate
+
+
+
+To change folder 
+command - cd folder_name 
+
+to return the folder 
+command - cd ..  (last one )
