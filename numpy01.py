@@ -19,7 +19,7 @@ class Numpy:
 
         return arr_1d            # return the array
 
-    def get_in_2D(self):                                   # function for get input from user for 1 d
+    def get_in_2D(self):                                   # function for get input from user for 2 d
         print(f"Enter {self.size} rows (space separated values):")
         arr_2d = np.array([list(map(int, input().split())) for _ in range(self.size)])
         
