@@ -29,6 +29,17 @@ In which I Practice NumPy Library
 -- In Branch Adv\_numpy
 
   -- I practice Advnced NumPy With Own Explanation
+    
+    a.ad/insert topic
+    
+    b.append
 
+    c.Merge /concatenate
 
+    d.Stacking (2 diff array not val)
 
+    e.spliting(main array into subarray vertical, horizonatal)
+
+    f.Breoadcasting (simple add,mul etc)
+    
+    f.Handeling missing value (using some function of numpy)
